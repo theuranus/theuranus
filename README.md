@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **theuranus.ntb@gmail.com**
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=theuranus&show_icons=true" alt="theuranus" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=theuranus&show_icons=true" alt="theuranus" /></p>
 
 <p align="center">
 <a href="https://linkedin.com/in/bao-nguyen-thai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bao-nguyen-thai" height="20" width="20" /></a>
