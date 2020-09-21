@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Bao Nguyen (James Nguyen)</h1>
-<h3 align="center">An artistic full stack developer from Vietnam 🇻🇳</h3>
+<h3 align="center">I'm a tinkerer. I make things.</h3>
 
 - 🔭 I’m currently working on [#PageFly](https://pagefly.io/)
 
